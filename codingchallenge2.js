@@ -10,7 +10,7 @@ USe the BMI example from Challenge #1, and the code you already wrote, and impro
 HINT: Use an if/else statement
 
 GOOD LUCK :)
-
+*/
 
 let markHeight = 1.69;
 let markWeight = 78;
